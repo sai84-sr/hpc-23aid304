@@ -1,5 +1,7 @@
 /* ===========================================================================
    Exercise 19 — Shared-memory tiling for matrix multiplication
+   Student: SHEKU VENKATA ASHOK SAI NAADH (CB.AI.U4AIM24039)
+   GitHub: sai84-sr
 
    gpu_matmul_naive is written for you. It works, and it is slow: every thread
    reads a whole row of A and a whole column of B straight from global memory,
